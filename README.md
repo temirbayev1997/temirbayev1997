@@ -30,7 +30,7 @@
 `PostgreSQL`
 
 **Инструменты и DevOps:**  
-`Docker Compose` `Nginx` `Git` `Bitrix` `Trello` `Jira`
+`Docker Compose` `Nginx` `Git` `Bitrix` `Trello` `Jira` `CI/CD`
 
 **Дополнительно:**  
 `Machine Learning (Python)` `REST API` `PEP8`
