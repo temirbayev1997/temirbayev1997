@@ -1,73 +1,72 @@
-# 👋 Привет! Я Abylai  
+# 👋 Hi, I'm Abylaykhan
 ### 💻 Python Developer | Backend / Fullstack Developer
 
 ---
 
-## 🚀 Обо мне  
-Я начинающий Python-разработчик из Астаны с опытом работы на **backend** и **frontend**.  
-Разрабатываю веб-приложения на **Django**, **React**, использую **Docker**, **Celery**, **PostgreSQL** и **Bitrix API**.  
-Имею практический опыт в коммерческих проектах и стажировках, включая разработку управленческих систем и ML-приложений.
+## 🚀 About Me 
+Python developer based in Astana, Kazakhstan.
+I work with **backend** и **frontend**.  
+building web applications using **Django**, **React**, and work with **Docker**, **Celery**, **PostgreSQL** and **Bitrix API**.  
+I have practical experience from commercial projects and internships, including the development of management systems and ML-based applications.
 
-- 🧠 Стремлюсь к чистому коду и понятной архитектуре  
-- ⚙️ Работаю с backend, frontend и интеграциями  
-- 🤝 Умею работать в команде и адаптироваться к новым задачам  
-- 📍 Город: Астана, Казахстан  
+- 🧠 Focused on clean code and clear architecture  
+- ⚙️ Experienced in backend, frontend, and system integrations  
+- 🤝 Team-oriented and quick to adapt to new challenges 
+- 📍 Location: Astana, Kazakhstan  
 
 ---
 
-## 🛠️ Технологии и стек
+## 🛠️ Technologies & Stack
 
-**Языки программирования:**  
-`Python` `JavaScript` `SQL`
+**Programming Languages:**  
+`Python` `JavaScript` `SQL` `Typescript` `Java`
 
 **Frontend:**  
-`React` `Tailwind CSS` `Bootstrap`
+`React` `Tailwind CSS` `Bootstrap` `Ant` ``
 
 **Backend:**  
 `Django` `Django REST Framework` `Celery` `FastAPI` `Spring Boot`
 
-**Базы данных:**  
-`PostgreSQL`
+**Databases:**  
+`PostgreSQL` `MongoDB` `SqlLite3`
 
-**Инструменты и DevOps:**  
-`Docker Compose` `Nginx` `Git` `Bitrix` `Trello` `Jira` `CI/CD`
+**Tools & DevOps:**  
+`Docker Compose` `Nginx` `Git` `Bitrix` `Trello` `Jira` `CI/CD` `Miro`
 
-**Дополнительно:**  
-`Machine Learning (Python)` `REST API` `PEP8`
-
----
-
-## 📂 Мои проекты
-
-### 🧾 Управленческая база для финансистов, ПМа и СЕО
-Внутренняя платформа для автоматизации управленческих процессов.  
-**Стек:** Django, Celery, React, PostgreSQL, Docker, Bitrix API, Nginx  
-**Роль:** Backend / Fullstack-разработчик  
-**Что сделал:**  
-- Настроил серверное окружение (Nginx, Docker)  
-- Внедрил лендинг и реализовал фронтенд-задачи  
-- Разработал модуль формул PnL и планирования бюджета  
-- Интегрировал систему с 1С и Bitrix API  
+**Additional:**  
+`Machine Learning (Python)` `REST API` `PEP8` `SOAP`
 
 ---
 
-### 🤖 ML-система для анализа загруженности залов  
-Дипломный проект — веб-приложение для прогнозирования загрузки спортзалов.  
-**Стек:** React, Django, Celery, Docker Compose, ML (Python)  
-**Что сделал:**  
-- Самостоятельно разработал архитектуру проекта  
-- Настроил backend и frontend с нуля  
-- Реализовал ML-модель для анализа и прогнозирования посещаемости  
-- Настроил асинхронные задачи Celery и визуализацию аналитики  
+## 📂 Projects
+
+### 🧾 Management Platform for Finance, PMs, and CEOs
+An internal platform designed to automate management and financial processes.
+**Tech Stack:** Django, Celery, React, PostgreSQL, Docker, Bitrix API, Nginx  
+**Role:** Backend / Fullstack-разработчик  
+**Responsibilities:**  
+- Set up server infrastructure (Docker, Nginx) 
+- Implemented landing pages and frontend features 
+- Developed PnL calculation and budget planning modules  
+- Integrated the platform with 1C and Bitrix API  
 
 ---
 
-## 💬 Контакты
+### 🤖 ML-Based Gym Load Analysis System
+Graduation project — a web application for predicting gym occupancy.
+**Tech Stack:** React, Django, Celery, Docker Compose, ML (Python)  
+**Responsibilities:**  
+- Designed the project architecture independently  
+- Built backend and frontend from scratch  
+- Implemented an ML model for gym attendance analysis and forecasting  
+- Configured asynchronous tasks with Celery and data visualization 
+
+---
+
+## 💬 Contacts
 📧 **Email:** [abylaihant1@gmail.com](mailto:abylaihant1@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/abylaikhan-temirbayev-924b29334](https://linkedin.com/in/abylaikhan-temirbayev-924b29334)  
 🐙 **GitHub:** [github.com/temirbayev1997](https://github.com/temirbayev1997)  
 💬 **Telegram:** [@kznzo](https://t.me/kznzo)
 
 ---
-
-⭐️ Если понравились мои проекты — не забудь поставить звёздочку!  
