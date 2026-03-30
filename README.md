@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Abylaykhan
-### 💻 Python Developer | Backend / Fullstack Developer
+# Hi, I'm Abylaykhan
+### Python Developer | Backend / Fullstack Developer
 
 ---
 
-## 🚀 About Me 
+## About Me 
 Python developer based in Astana, Kazakhstan.
 I work with **backend** и **frontend**.  
 building web applications using **Django**, **React**, and work with **Docker**, **Celery**, **PostgreSQL** and **Bitrix API**.  
 I have practical experience from commercial projects and internships, including the development of management systems and ML-based applications.
 
-- 🧠 Focused on clean code and clear architecture  
-- ⚙️ Experienced in backend, frontend, and system integrations  
-- 🤝 Team-oriented and quick to adapt to new challenges 
-- 📍 Location: Astana, Kazakhstan  
+- Focused on clean code and clear architecture  
+- Experienced in backend, frontend, and system integrations  
+- Team-oriented and quick to adapt to new challenges 
+- Location: Astana, Kazakhstan  
 
 ---
 
@@ -38,9 +38,9 @@ I have practical experience from commercial projects and internships, including 
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🧾 Management Platform for Finance, PMs, and CEOs
+### Management Platform for Finance, PMs, and CEOs
 An internal platform designed to automate management and financial processes.
 **Tech Stack:** Django, Celery, React, PostgreSQL, Docker, Bitrix API, Nginx  
 **Role:** Backend / Fullstack-разработчик  
@@ -52,7 +52,7 @@ An internal platform designed to automate management and financial processes.
 
 ---
 
-### 🤖 ML-Based Gym Load Analysis System
+### ML-Based Gym Load Analysis System
 Graduation project — a web application for predicting gym occupancy.
 **Tech Stack:** React, Django, Celery, Docker Compose, ML (Python)  
 **Responsibilities:**  
@@ -63,10 +63,9 @@ Graduation project — a web application for predicting gym occupancy.
 
 ---
 
-## 💬 Contacts
-📧 **Email:** [abylaihant1@gmail.com](mailto:abylaihant1@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/abylaikhan-temirbayev-924b29334](https://linkedin.com/in/abylaikhan-temirbayev-924b29334)  
-🐙 **GitHub:** [github.com/temirbayev1997](https://github.com/temirbayev1997)  
-💬 **Telegram:** [@kznzo](https://t.me/kznzo)
+## Contacts
+**Email:** [abylaihant1@gmail.com](mailto:abylaihant1@gmail.com)  
+**LinkedIn:** [linkedin.com/in/abylaikhan-temirbayev-924b29334](https://linkedin.com/in/abylaikhan-temirbayev-924b29334)  
+**Telegram:** [@kznzo](https://t.me/kznzo)
 
 ---
