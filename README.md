@@ -16,7 +16,7 @@ I have practical experience from commercial projects and internships, including 
 
 ---
 
-## 🛠️ Technologies & Stack
+## Technologies & Stack
 
 **Programming Languages:**  
 `Python` `JavaScript` `SQL` `Typescript` `Java`
